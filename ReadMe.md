@@ -15,8 +15,8 @@ We encourage lab members to use the logo in **academic and professional contexts
 The logo follows **official Notre Dame colors**:
 
 - Blue: `#0C2340`
-- Gold: `#C99700`
-- White / Black as accent colors
+- Gold: `#DE9C00`
+- Green: `#65DB09` and Pink: `#F38B6A` for the sandwich filling
 
 ## Usage Guidelines
 
