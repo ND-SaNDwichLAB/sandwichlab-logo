@@ -17,10 +17,12 @@ The logo follows **official Notre Dame colors**:
 - Blue: `#0C2340`
 - Gold: `#DE9C00`
 - Green: `#65DB09` and Pink: `#F38B6A` for the sandwich filling
+- White: `#FFFFFF` as accent colors
 
 ## Usage Guidelines
 
 ✅ Use in: academic slides, posters, lab reports, websites, GitHub repositories
+
 🚫 Avoid: altering colors, stretching/skewing the logo, low-resolution screenshots
 
 For **simple edits** (e.g., adding rounded corners, resizing, combining with other graphics), we recommend importing the SVG files into [Figma](https://figma.com) or any vector graphics editor.
